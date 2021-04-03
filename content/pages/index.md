@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Bring Your Blockchain-Based Idea Into Reality
     content: >
-      fect theme for developers, designers and entrepreneurs who need a sleek,
-      modern SaaS site.
+      We’re a custom software development company focusing on private
+      blockchains with a track record of building Cardano, Tezos and Ethereum.
     actions:
       - label: Learn More
         url: /features
