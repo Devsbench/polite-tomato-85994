@@ -10,7 +10,7 @@ sections:
       We’re a custom software development company focusing on private
       blockchains with a track record of building Cardano, Tezos and Ethereum.
     actions:
-      - label: Learn More
+      - label: Hire Us!
         url: /features
         style: primary
   - section_id: features
