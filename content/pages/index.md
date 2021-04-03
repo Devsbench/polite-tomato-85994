@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/Untitled design (43).png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: Bring Your Blockchain-Based Idea Into Reality
     content: >
       fect theme for developers, designers and entrepreneurs who need a sleek,
       modern SaaS site.
