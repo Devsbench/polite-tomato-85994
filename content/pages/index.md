@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: What we do
     subtitle: >-
       We develop and maintain the projects smart contract and the corresponding
       frontend and backend
