@@ -24,10 +24,7 @@ sections:
       - title: NFT Marketplace
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: "Build curated art marketplace for the sale of NFTs. Mint and post images on your own platform. You will enable artists to upload their own content. For reference check\_[OpenSea](https://opensea.io/)\_or\_[Foundation](https://foundation.app/).\n"
         actions:
           - label: Learn More
             url: /features
