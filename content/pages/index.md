@@ -21,7 +21,7 @@ sections:
       We develop and maintain the projects smart contract and the corresponding
       frontend and backend
     features:
-      - title: The Best Feature of Your Services
+      - title: NFT Marketplace
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
